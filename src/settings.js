@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: '上海市土壤报告评审技术要点表在线审查系统',
 
   /**
    * @type {boolean} true | false
